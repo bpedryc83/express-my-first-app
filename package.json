@@ -1,0 +1,11 @@
+{
+  "name": "express-my-first-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:bpedryc83/express-my-first-app.git",
+  "author": "Bartlomiej Pedryc <b.pedryc@poczta.fm>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
